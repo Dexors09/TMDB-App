@@ -10,12 +10,13 @@ clonar el proyecto: https://github.com/Dexors09/TMDB-App.git
 ### Pre-requisitos 📋
 
 * Xcode
-* Swify 5+
+* Swift 5+
 * iOS 13
+* Tener cocoapods instalado
 
 
 ### Instalación 🔧
-una vez clonado el proyecto, accedemos a la raiz del proyecto desde la terminal y ejecutamos **pod install** para hacer uso de la librerias ocupadas
+una vez clonado el proyecto, accedemos a la raiz del proyecto desde la terminal y ejecutamos **pod install** para hacer uso de la librerias requeridas
 
 ## Construido con 🛠️
 * Swift 5+
